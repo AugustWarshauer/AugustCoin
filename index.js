@@ -1,3 +1,5 @@
+// Almost entirely (>95%) original JS by August Warshauer
+
 // import profilesABI from './AugustsProfiles_abi.json' with { type: "json" };
 // import coinABI from './AugustCoin_abi.json' with { type: "json" };
 // import faucetABI from './AugustFaucet_abi.json' with { type: "json" };
