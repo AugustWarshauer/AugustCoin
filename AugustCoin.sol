@@ -1,4 +1,8 @@
 // SPDX-License-Identifier: MIT
+// AugustsProfiles contract original by August Warshauer
+// ERC20 token AugustCoin modified by August Warshauer
+// AugustFaucet contract modified by August Warshauer
+
 pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
